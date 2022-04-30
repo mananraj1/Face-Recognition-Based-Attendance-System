@@ -1,0 +1,495 @@
+arguments: align_dataset_mtcnn.py /home/srm-bic-pc/Face_ID/facenet/dataset/aligned --image_size 160 --margin 32 --random_order store_true --detect_multiple_faces False --gpu_memory_fraction 0.2
+--------------------
+tensorflow version: 1.10.1
+--------------------
+git hash: 5aa673ee4ecbcf96ad9523c34d432542f8137da3
+--------------------
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180718-WA0002.png b/facenet/dataset/aligned/Abhijeet/IMG-20180718-WA0002.png
+deleted file mode 100644
+index f632fe1..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180718-WA0002.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180730-WA0006.png b/facenet/dataset/aligned/Abhijeet/IMG-20180730-WA0006.png
+deleted file mode 100644
+index 69f021c..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180730-WA0006.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180813-WA0017.png b/facenet/dataset/aligned/Abhijeet/IMG-20180813-WA0017.png
+deleted file mode 100644
+index b0d3767..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180813-WA0017.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180816-WA0023.png b/facenet/dataset/aligned/Abhijeet/IMG-20180816-WA0023.png
+deleted file mode 100644
+index b95afad..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180816-WA0023.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180823-WA0012.png b/facenet/dataset/aligned/Abhijeet/IMG-20180823-WA0012.png
+deleted file mode 100644
+index 553f50c..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180823-WA0012.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180826-WA0024.png b/facenet/dataset/aligned/Abhijeet/IMG-20180826-WA0024.png
+deleted file mode 100644
+index 6e53e19..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180826-WA0024.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0024.png b/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0024.png
+deleted file mode 100644
+index 54fe0b8..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0024.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0026.png b/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0026.png
+deleted file mode 100644
+index 7ded247..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0026.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0034.png b/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0034.png
+deleted file mode 100644
+index e8f0969..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0034.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0003.png b/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0003.png
+deleted file mode 100644
+index 5cc19a0..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0003.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0005.png b/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0005.png
+deleted file mode 100644
+index d56bdd4..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0005.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0015.png b/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0015.png
+deleted file mode 100644
+index 145d8e2..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0015.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180916-WA0005.png b/facenet/dataset/aligned/Abhijeet/IMG-20180916-WA0005.png
+deleted file mode 100644
+index dba8388..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180916-WA0005.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180925-WA0023.png b/facenet/dataset/aligned/Abhijeet/IMG-20180925-WA0023.png
+deleted file mode 100644
+index 5e9f87d..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180925-WA0023.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180926-WA0002.png b/facenet/dataset/aligned/Abhijeet/IMG-20180926-WA0002.png
+deleted file mode 100644
+index e255a66..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180926-WA0002.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG-20180926-WA0004.png b/facenet/dataset/aligned/Abhijeet/IMG-20180926-WA0004.png
+deleted file mode 100644
+index aa010de..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG-20180926-WA0004.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG_1516362666441.png b/facenet/dataset/aligned/Abhijeet/IMG_1516362666441.png
+deleted file mode 100644
+index eff040d..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG_1516362666441.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG_20180616_193842_525.png b/facenet/dataset/aligned/Abhijeet/IMG_20180616_193842_525.png
+deleted file mode 100644
+index bc4dfd6..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG_20180616_193842_525.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG_20180618_122332_479.png b/facenet/dataset/aligned/Abhijeet/IMG_20180618_122332_479.png
+deleted file mode 100644
+index 1c44294..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG_20180618_122332_479.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abhijeet/IMG_20180624_162836.png b/facenet/dataset/aligned/Abhijeet/IMG_20180624_162836.png
+deleted file mode 100644
+index 61c0a32..0000000
+Binary files a/facenet/dataset/aligned/Abhijeet/IMG_20180624_162836.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0068.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0068.png
+deleted file mode 100644
+index 5bd8e3c..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0068.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0069.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0069.png
+deleted file mode 100644
+index fbda1f1..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0069.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0070.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0070.png
+deleted file mode 100644
+index e94bc94..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0070.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0071.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0071.png
+deleted file mode 100644
+index e201c28..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0071.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0072.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0072.png
+deleted file mode 100644
+index 0f54f79..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0072.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0073.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0073.png
+deleted file mode 100644
+index ca68e33..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0073.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0074.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0074.png
+deleted file mode 100644
+index 7ef8ffc..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0074.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0075.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0075.png
+deleted file mode 100644
+index 3d9d3c3..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0075.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0076.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0076.png
+deleted file mode 100644
+index 71c79cc..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0076.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0079.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0079.png
+deleted file mode 100644
+index e35864e..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0079.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0080.png b/facenet/dataset/aligned/Abrar/IMG-20181018-WA0080.png
+deleted file mode 100644
+index c7b3335..0000000
+Binary files a/facenet/dataset/aligned/Abrar/IMG-20181018-WA0080.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0034.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0034.png
+deleted file mode 100644
+index 26e0489..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0034.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0035.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0035.png
+deleted file mode 100644
+index 5afd3c4..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0035.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0036.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0036.png
+deleted file mode 100644
+index 9a7cf55..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0036.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0037.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0037.png
+deleted file mode 100644
+index 85e023a..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0037.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0038.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0038.png
+deleted file mode 100644
+index 764289a..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0038.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0039.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0039.png
+deleted file mode 100644
+index 2b7c0be..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0039.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0040.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0040.png
+deleted file mode 100644
+index 2049030..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0040.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0042.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0042.png
+deleted file mode 100644
+index 3f7557e..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0042.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0043.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0043.png
+deleted file mode 100644
+index 9076011..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0043.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0044.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0044.png
+deleted file mode 100644
+index a7636d2..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0044.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0045.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0045.png
+deleted file mode 100644
+index e1a201c..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0045.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0046.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0046.png
+deleted file mode 100644
+index c3613ee..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0046.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Bug/IMG-20181018-WA0047.png b/facenet/dataset/aligned/Bug/IMG-20181018-WA0047.png
+deleted file mode 100644
+index 975f365..0000000
+Binary files a/facenet/dataset/aligned/Bug/IMG-20181018-WA0047.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20171021-WA0009.png b/facenet/dataset/aligned/Indira/IMG-20171021-WA0009.png
+deleted file mode 100644
+index b82e146..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20171021-WA0009.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180806-WA0001.png b/facenet/dataset/aligned/Indira/IMG-20180806-WA0001.png
+deleted file mode 100644
+index e302424..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180806-WA0001.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180816-WA0013.png b/facenet/dataset/aligned/Indira/IMG-20180816-WA0013.png
+deleted file mode 100644
+index caaed0e..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180816-WA0013.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180820-WA0001.png b/facenet/dataset/aligned/Indira/IMG-20180820-WA0001.png
+deleted file mode 100644
+index 320c181..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180820-WA0001.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180824-WA0034.png b/facenet/dataset/aligned/Indira/IMG-20180824-WA0034.png
+deleted file mode 100644
+index baa0462..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180824-WA0034.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180825-WA0041.png b/facenet/dataset/aligned/Indira/IMG-20180825-WA0041.png
+deleted file mode 100644
+index fc86c3d..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180825-WA0041.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180827-WA0043.png b/facenet/dataset/aligned/Indira/IMG-20180827-WA0043.png
+deleted file mode 100644
+index 2f2bbd1..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180827-WA0043.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180831-WA0023.png b/facenet/dataset/aligned/Indira/IMG-20180831-WA0023.png
+deleted file mode 100644
+index 0ce2c2a..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180831-WA0023.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180904-WA0011.png b/facenet/dataset/aligned/Indira/IMG-20180904-WA0011.png
+deleted file mode 100644
+index db2a061..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180904-WA0011.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180927-WA0002.png b/facenet/dataset/aligned/Indira/IMG-20180927-WA0002.png
+deleted file mode 100644
+index 379c34d..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180927-WA0002.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20180929-WA0009.png b/facenet/dataset/aligned/Indira/IMG-20180929-WA0009.png
+deleted file mode 100644
+index ddaab3c..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20180929-WA0009.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20181002-WA0006.png b/facenet/dataset/aligned/Indira/IMG-20181002-WA0006.png
+deleted file mode 100644
+index 9e575ec..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20181002-WA0006.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20181004-WA0021.png b/facenet/dataset/aligned/Indira/IMG-20181004-WA0021.png
+deleted file mode 100644
+index b9b31cd..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20181004-WA0021.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20181009-WA0009.png b/facenet/dataset/aligned/Indira/IMG-20181009-WA0009.png
+deleted file mode 100644
+index 583c58e..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20181009-WA0009.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20181011-WA0005.png b/facenet/dataset/aligned/Indira/IMG-20181011-WA0005.png
+deleted file mode 100644
+index 5f8b0ba..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20181011-WA0005.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20181013-WA0019.png b/facenet/dataset/aligned/Indira/IMG-20181013-WA0019.png
+deleted file mode 100644
+index ad2865f..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20181013-WA0019.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20181015-WA0003.png b/facenet/dataset/aligned/Indira/IMG-20181015-WA0003.png
+deleted file mode 100644
+index 4640371..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20181015-WA0003.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Indira/IMG-20181015-WA0007.png b/facenet/dataset/aligned/Indira/IMG-20181015-WA0007.png
+deleted file mode 100644
+index 47a470e..0000000
+Binary files a/facenet/dataset/aligned/Indira/IMG-20181015-WA0007.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0060.png b/facenet/dataset/aligned/Sumant/IMG-20181018-WA0060.png
+deleted file mode 100644
+index bf36191..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0060.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0061.png b/facenet/dataset/aligned/Sumant/IMG-20181018-WA0061.png
+deleted file mode 100644
+index ee9cbb3..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0061.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0062.png b/facenet/dataset/aligned/Sumant/IMG-20181018-WA0062.png
+deleted file mode 100644
+index 2c56747..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0062.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0063.png b/facenet/dataset/aligned/Sumant/IMG-20181018-WA0063.png
+deleted file mode 100644
+index ded66cc..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0063.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0064.png b/facenet/dataset/aligned/Sumant/IMG-20181018-WA0064.png
+deleted file mode 100644
+index 98bd02d..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0064.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0065.png b/facenet/dataset/aligned/Sumant/IMG-20181018-WA0065.png
+deleted file mode 100644
+index 321b0a3..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0065.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0066.png b/facenet/dataset/aligned/Sumant/IMG-20181018-WA0066.png
+deleted file mode 100644
+index 2195a9e..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0066.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0067.png b/facenet/dataset/aligned/Sumant/IMG-20181018-WA0067.png
+deleted file mode 100644
+index 2600cbb..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181018-WA0067.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181019-WA0023.png b/facenet/dataset/aligned/Sumant/IMG-20181019-WA0023.png
+deleted file mode 100644
+index 9d6eac8..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181019-WA0023.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181019-WA0024.png b/facenet/dataset/aligned/Sumant/IMG-20181019-WA0024.png
+deleted file mode 100644
+index d5005da..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181019-WA0024.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Sumant/IMG-20181019-WA0025.png b/facenet/dataset/aligned/Sumant/IMG-20181019-WA0025.png
+deleted file mode 100644
+index 4e0e340..0000000
+Binary files a/facenet/dataset/aligned/Sumant/IMG-20181019-WA0025.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0049.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0049.png
+deleted file mode 100644
+index db19e39..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0049.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0050.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0050.png
+deleted file mode 100644
+index 8c42a26..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0050.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0051.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0051.png
+deleted file mode 100644
+index d397cbf..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0051.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0052.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0052.png
+deleted file mode 100644
+index b92c45c..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0052.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0053.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0053.png
+deleted file mode 100644
+index 6ec01af..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0053.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0054.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0054.png
+deleted file mode 100644
+index 26529d5..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0054.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0055.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0055.png
+deleted file mode 100644
+index a7fa3dc..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0055.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0056.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0056.png
+deleted file mode 100644
+index d53acff..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0056.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0057.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0057.png
+deleted file mode 100644
+index 2541e07..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0057.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0058.png b/facenet/dataset/aligned/Swayam/IMG-20181018-WA0058.png
+deleted file mode 100644
+index 477a81e..0000000
+Binary files a/facenet/dataset/aligned/Swayam/IMG-20181018-WA0058.png and /dev/null differ
+diff --git a/facenet/dataset/aligned/bounding_boxes_69565.txt b/facenet/dataset/aligned/bounding_boxes_69565.txt
+deleted file mode 100644
+index e86a695..0000000
+--- a/facenet/dataset/aligned/bounding_boxes_69565.txt
++++ /dev/null
+@@ -1,83 +0,0 @@
+-facenet/dataset/aligned/Abhijeet/IMG-20180926-WA0002.png 366 311 614 644
+-facenet/dataset/aligned/Abhijeet/IMG-20180925-WA0023.png 564 738 1295 1566
+-facenet/dataset/aligned/Abhijeet/IMG-20180730-WA0006.png 368 270 618 584
+-facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0005.png 312 266 587 636
+-facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0003.png 245 192 570 598
+-facenet/dataset/aligned/Abhijeet/IMG-20180718-WA0002.png 325 398 1042 1334
+-facenet/dataset/aligned/Abhijeet/IMG_20180618_122332_479.png 227 189 532 575
+-facenet/dataset/aligned/Abhijeet/IMG-20180813-WA0017.png 403 562 1199 1629
+-facenet/dataset/aligned/Abhijeet/IMG-20180816-WA0023.png 242 372 960 1289
+-facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0024.png 256 236 560 614
+-facenet/dataset/aligned/Abhijeet/IMG_20180616_193842_525.png 257 125 333 212
+-facenet/dataset/aligned/Abhijeet/IMG-20180916-WA0005.png 388 522 1272 1705
+-facenet/dataset/aligned/Abhijeet/IMG-20180823-WA0012.png 317 206 555 513
+-facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0034.png 421 221 700 590
+-facenet/dataset/aligned/Abhijeet/IMG_1516362666441.png 214 320 564 755
+-facenet/dataset/aligned/Abhijeet/IMG-20180826-WA0024.png 294 368 1088 1403
+-facenet/dataset/aligned/Abhijeet/IMG-20180827-WA0026.png 347 307 629 626
+-facenet/dataset/aligned/Abhijeet/IMG-20180910-WA0015.png 174 193 719 908
+-facenet/dataset/aligned/Abhijeet/IMG-20180926-WA0004.png 358 296 673 720
+-facenet/dataset/aligned/Abhijeet/IMG_20180624_162836.png 400 332 1152 1322
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0070.png 358 14 486 163
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0072.png 271 145 662 655
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0069.png 370 184 591 453
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0068.png 346 183 469 330
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0073.png 232 163 584 591
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0075.png 247 97 683 640
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0074.png 284 119 682 647
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0076.png 356 197 774 740
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0071.png 317 90 749 639
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0080.png 216 231 353 400
+-facenet/dataset/aligned/Abrar/IMG-20181018-WA0079.png 308 244 469 430
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0035.png 227 300 583 745
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0044.png 138 232 244 355
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0037.png 243 423 511 759
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0036.png 285 256 401 392
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0034.png 218 268 515 659
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0040.png 338 418 575 713
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0045.png 333 81 566 390
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0042.png 238 379 487 702
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0043.png 244 195 353 326
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0047.png 344 229 656 624
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0038.png 280 224 398 362
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0046.png 271 396 531 739
+-facenet/dataset/aligned/Bug/IMG-20181018-WA0039.png 307 416 563 736
+-facenet/dataset/aligned/Indira/IMG-20180816-WA0013.png 62 139 446 636
+-facenet/dataset/aligned/Indira/IMG-20171021-WA0009.png 193 0 699 649
+-facenet/dataset/aligned/Indira/IMG-20180820-WA0001.png 171 313 564 847
+-facenet/dataset/aligned/Indira/IMG-20180827-WA0043.png 223 270 577 732
+-facenet/dataset/aligned/Indira/IMG-20181015-WA0003.png 176 171 602 731
+-facenet/dataset/aligned/Indira/IMG-20180927-WA0002.png 205 174 611 701
+-facenet/dataset/aligned/Indira/IMG-20181015-WA0007.png 299 217 511 501
+-facenet/dataset/aligned/Indira/IMG-20181011-WA0005.png 647 195 796 389
+-facenet/dataset/aligned/Indira/IMG-20181013-WA0019.png 472 335 589 490
+-facenet/dataset/aligned/Indira/IMG-20180806-WA0001.png 223 214 698 882
+-facenet/dataset/aligned/Indira/IMG-20180904-WA0011.png 179 110 517 555
+-facenet/dataset/aligned/Indira/IMG-20181002-WA0006.png 280 145 683 698
+-facenet/dataset/aligned/Indira/IMG-20180929-WA0009.png 193 118 589 650
+-facenet/dataset/aligned/Indira/IMG-20180831-WA0023.png 286 214 510 489
+-facenet/dataset/aligned/Indira/IMG-20181004-WA0021.png 401 158 529 328
+-facenet/dataset/aligned/Indira/IMG-20180824-WA0034.png 145 285 529 793
+-facenet/dataset/aligned/Indira/IMG-20181009-WA0009.png 341 112 579 437
+-facenet/dataset/aligned/Indira/IMG-20180825-WA0041.png 151 212 524 656
+-facenet/dataset/aligned/Sumant/IMG-20181018-WA0067.png 261 244 616 676
+-facenet/dataset/aligned/Sumant/IMG-20181019-WA0025.png 216 77 315 199
+-facenet/dataset/aligned/Sumant/IMG-20181018-WA0064.png 311 201 678 691
+-facenet/dataset/aligned/Sumant/IMG-20181018-WA0061.png 163 229 429 562
+-facenet/dataset/aligned/Sumant/IMG-20181018-WA0062.png 180 196 453 536
+-facenet/dataset/aligned/Sumant/IMG-20181018-WA0066.png 225 204 586 642
+-facenet/dataset/aligned/Sumant/IMG-20181019-WA0023.png 362 147 516 326
+-facenet/dataset/aligned/Sumant/IMG-20181018-WA0063.png 197 223 603 742
+-facenet/dataset/aligned/Sumant/IMG-20181019-WA0024.png 452 87 604 257
+-facenet/dataset/aligned/Sumant/IMG-20181018-WA0065.png 291 202 607 605
+-facenet/dataset/aligned/Sumant/IMG-20181018-WA0060.png 200 255 457 567
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0050.png 278 242 738 850
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0054.png 274 157 706 711
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0049.png 234 157 725 804
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0053.png 238 214 692 792
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0056.png 251 195 732 800
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0052.png 222 209 666 795
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0057.png 163 213 698 913
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0058.png 238 223 743 882
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0055.png 162 142 657 803
+-facenet/dataset/aligned/Swayam/IMG-20181018-WA0051.png 314 16 824 701
+diff --git a/facenet/dataset/aligned/revision_info.txt b/facenet/dataset/aligned/revision_info.txt
+deleted file mode 100644
+index 58956a3..0000000
+--- a/facenet/dataset/aligned/revision_info.txt
++++ /dev/null
+@@ -1,7 +0,0 @@
+-arguments: facenet/src/align/align_dataset_mtcnn.py facenet/dataset/raw facenet/dataset/aligned --image_size 160 --margin 32
+---------------------
+-tensorflow version: 1.11.0
+---------------------
+-git hash: b'096ed770f163957c1e56efa7feeb194773920f6e'
+---------------------
+-b'diff --git a/src/align/align_dataset_mtcnn.py b/src/align/align_dataset_mtcnn.py\nindex 7d5e735..240b6c0 100644\n--- a/src/align/align_dataset_mtcnn.py\n+++ b/src/align/align_dataset_mtcnn.py\n@@ -1,18 +1,18 @@\n """Performs face alignment and stores face thumbnails in the output directory."""\n # MIT License\n-# \n+#\n # Copyright (c) 2016 David Sandberg\n-# \n+#\n # Permission is hereby granted, free of charge, to any person obtaining a copy\n # of this software and associated documentation files (the "Software"), to deal\n # in the Software without restriction, including without limitation the rights\n # to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\n # copies of the Software, and to permit persons to whom the Software is\n # furnished to do so, subject to the following conditions:\n-# \n+#\n # The above copyright notice and this permission notice shall be included in all\n # copies or substantial portions of the Software.\n-# \n+#\n # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\n # IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\n # FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\n@@ -45,15 +45,15 @@ def main(args):\n     src_path,_ = os.path.split(os.path.realpath(__file__))\n     facenet.store_revision_info(src_path, output_dir, \' \'.join(sys.argv))\n     dataset = facenet.get_dataset(args.input_dir)\n-    \n+\n     print(\'Creating networks and loading parameters\')\n-    \n+\n     with tf.Graph().as_default():\n         gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=args.gpu_memory_fraction)\n         sess = tf.Session(config=tf.ConfigProto(gpu_options=gpu_options, log_device_placement=False))\n         with sess.as_default():\n             pnet, rnet, onet = align.detect_face.create_mtcnn(sess, None)\n-    \n+\n     minsize = 20 # minimum size of face\n     threshold = [ 0.6, 0.7, 0.7 ]  # three steps\'s threshold\n     factor = 0.709 # scale factor\n@@ -61,7 +61,7 @@ def main(args):\n     # Add a random key to the filename to allow alignment using multiple processes\n     random_key = np.random.randint(0, high=99999)\n     bounding_boxes_filename = os.path.join(output_dir, \'bounding_boxes_%05d.txt\' % random_key)\n-    \n+\n     with open(bounding_boxes_filename, "w") as text_file:\n         nrof_images_total = 0\n         nrof_successfully_aligned = 0\n@@ -92,7 +92,7 @@ def main(args):\n                         if img.ndim == 2:\n                             img = facenet.to_rgb(img)\n                         img = img[:,:,0:3]\n-    \n+\n                         bounding_boxes, _ = align.detect_face.detect_face(img, minsize, pnet, rnet, onet, threshold, factor)\n                         nrof_faces = bounding_boxes.shape[0]\n                         if nrof_faces>0:\n@@ -133,21 +133,21 @@ def main(args):\n                         else:\n                             print(\'Unable to align "%s"\' % image_path)\n                             text_file.write(\'%s\\n\' % (output_filename))\n-                            \n+\n     print(\'Total number of images: %d\' % nrof_images_total)\n     print(\'Number of successfully aligned images: %d\' % nrof_successfully_aligned)\n-            \n+\n \n def parse_arguments(argv):\n     parser = argparse.ArgumentParser()\n-    \n+\n     parser.add_argument(\'input_dir\', type=str, help=\'Directory with unaligned images.\')\n     parser.add_argument(\'output_dir\', type=str, help=\'Directory with aligned face thumbnails.\')\n     parser.add_argument(\'--image_size\', type=int,\n         help=\'Image size (height, width) in pixels.\', default=182)\n     parser.add_argument(\'--margin\', type=int,\n         help=\'Margin for the crop around the bounding box (height, width) in pixels.\', default=44)\n-    parser.add_argument(\'--random_order\', \n+    parser.add_argument(\'--random_order\',\n         help=\'Shuffles the order of images to enable alignment using multiple processes.\', action=\'store_true\')\n     parser.add_argument(\'--gpu_memory_fraction\', type=float,\n         help=\'Upper bound on the amount of GPU memory that will be used by the process.\', default=1.0)'
+\ No newline at end of file
+diff --git a/facenet/src/align/align_dataset_mtcnn.py b/facenet/src/align/align_dataset_mtcnn.py
+index 240b6c0..adc6f20 100644
+--- a/facenet/src/align/align_dataset_mtcnn.py
++++ b/facenet/src/align/align_dataset_mtcnn.py
+@@ -32,7 +32,7 @@ import argparse
+ import tensorflow as tf
+ import numpy as np
+ import facenet
+-import align.detect_face
++import detect_face
+ import random
+ from time import sleep
+ 
+@@ -52,7 +52,7 @@ def main(args):
+         gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=args.gpu_memory_fraction)
+         sess = tf.Session(config=tf.ConfigProto(gpu_options=gpu_options, log_device_placement=False))
+         with sess.as_default():
+-            pnet, rnet, onet = align.detect_face.create_mtcnn(sess, None)
++            pnet, rnet, onet = detect_face.create_mtcnn(sess, None)
+ 
+     minsize = 20 # minimum size of face
+     threshold = [ 0.6, 0.7, 0.7 ]  # three steps's threshold
+diff --git a/facenet/src/face_recognition_image.py b/facenet/src/face_recognition_image.py
+index 99ed178..3aadf90 100644
+--- a/facenet/src/face_recognition_image.py
++++ b/facenet/src/face_recognition_image.py
+@@ -15,10 +15,10 @@ import facenet
+ from align import detect_face
+ 
+ img_path=sys.argv[1]
+-modeldir = 'facenet/src/20180402-114759/'
+-classifier_filename = 'facenet/src/20180402-114759/my_classifier.pkl'
++modeldir = 	'/home/srm-bic-pc/Face_ID/facenet/src/facenet-weights/'			#'facenet/src/20180402-114759/'
++classifier_filename = '/home/srm-bic-pc/Face_ID/facenet/src/facenet-weights/my_classifier.pkl'
+ npy=''
+-train_img="facenet/dataset/raw"
++train_img="/home/srm-bic-pc/Face_ID/facenet/dataset/train"
+ 
+ with tf.Graph().as_default():
+     gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.6)
+diff --git a/facenet/src/face_recognition_video.py b/facenet/src/face_recognition_video.py
+index b5daff8..fbfbc1d 100644
+--- a/facenet/src/face_recognition_video.py
++++ b/facenet/src/face_recognition_video.py
+@@ -15,8 +15,8 @@ import facenet
+ from align import detect_face
+ 
+ input_video=sys.argv[1]
+-modeldir = 'facenet/src/20180402-114759/'
+-classifier_filename = 'facenet/src/20180402-114759/my_classifier.pkl'
++modeldir = '/home/srm-bic-pc/Face_ID/facenet/src/facenet-weights/'
++classifier_filename = '/home/srm-bic-pc/Face_ID/facenet/src/facenet-weights/my_classifier.pkl'
+ npy=''
+ train_img="facenet/dataset/raw"

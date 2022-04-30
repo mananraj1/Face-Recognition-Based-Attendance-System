@@ -1,0 +1,11 @@
+Date: 18th December,2018
+
+Step1:
+	python align_dataset_mtcnn.py /home/shruti/AI/Hackathon_AI/dataset/raw /home/shruti/AI/Hackathon_AI/dataset/aligned --image_size 160 --margin 32  --detect_multiple_faces False --gpu_memory_fraction 0.5
+
+Step2:
+	python classifier.py TRAIN /home/shruti/AI/Hackathon_AI/dataset/aligned /home/shruti/AI/Hackathon_AI/src/facenet-weights/ /home/shruti/AI/Hackathon_AI/src/facenet-weights/Hackathon-SVM.pkl --batch_size 16 --min_nrof_images_per_class 10 --nrof_train_images_per_class 10 --use_split_dataset 
+	
+Step3:
+	python face_recognition_video.py	
+	
