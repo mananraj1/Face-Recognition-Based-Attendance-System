@@ -1,0 +1,30 @@
+[27-Jan-2022 01:37:21 UTC] PHP Notice:  Undefined variable: title in /home/attendancemananr/public_html/teachers/index.php on line 28
+[27-Jan-2022 01:45:43 UTC] PHP Notice:  Undefined variable: title in /home/attendancemananr/public_html/teachers/index.php on line 28
+[27-Jan-2022 01:52:29 UTC] PHP Notice:  Undefined variable: conn in /home/attendancemananr/public_html/teachers/index.php on line 8
+[27-Jan-2022 01:52:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/attendancemananr/public_html/teachers/index.php on line 8
+[27-Jan-2022 01:52:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/attendancemananr/public_html/teachers/index.php on line 9
+[27-Jan-2022 01:52:55 UTC] PHP Notice:  Undefined variable: conn in /home/attendancemananr/public_html/teachers/index.php on line 8
+[27-Jan-2022 01:52:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/attendancemananr/public_html/teachers/index.php on line 8
+[27-Jan-2022 01:52:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/attendancemananr/public_html/teachers/index.php on line 9
+[27-Jan-2022 01:53:02 UTC] PHP Notice:  Undefined variable: conn in /home/attendancemananr/public_html/teachers/index.php on line 8
+[27-Jan-2022 01:53:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/attendancemananr/public_html/teachers/index.php on line 8
+[27-Jan-2022 01:53:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/attendancemananr/public_html/teachers/index.php on line 9
+[27-Jan-2022 01:59:08 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 15
+[27-Jan-2022 01:59:51 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 02:37:25 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 04:30:59 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 05:25:26 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 06:37:36 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 06:37:47 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 08:41:26 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 09:11:29 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 10:48:06 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[27-Jan-2022 10:58:50 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[28-Jan-2022 05:40:23 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[28-Jan-2022 21:46:00 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[29-Jan-2022 01:39:01 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[29-Jan-2022 02:41:59 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[29-Jan-2022 06:29:42 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[14-Feb-2022 07:27:34 UTC] PHP Notice:  Undefined index: mobile in /home/attendancemananr/public_html/teachers/index.php on line 16
+[30-Apr-2022 17:00:11 UTC] PHP Notice:  Undefined index: mobile in /home/openmananrajco/public_html/teachers/index.php on line 16
+[11-May-2022 05:33:48 UTC] PHP Notice:  Undefined index: mobile in /home/openmananrajco/public_html/teachers/index.php on line 16

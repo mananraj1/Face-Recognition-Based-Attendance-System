@@ -1,0 +1,25 @@
+[27-Jan-2022 10:58:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/attendancemananr/public_html/api.php on line 7
+[27-Jan-2022 10:59:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/attendancemananr/public_html/api.php on line 7
+[27-Jan-2022 11:00:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/attendancemananr/public_html/api.php on line 7
+[27-Jan-2022 11:01:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/attendancemananr/public_html/api.php on line 7
+[27-Jan-2022 11:02:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects exactly 1 parameter, 2 given in /home/attendancemananr/public_html/api.php on line 7
+[29-Jan-2022 02:57:53 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 02:57:53 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 02:59:21 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 02:59:21 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 03:00:29 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 03:00:29 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 04:01:10 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 04:01:10 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 04:03:58 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 04:03:58 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 04:05:13 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 04:05:13 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 06:32:21 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 06:32:21 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 06:33:06 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 06:33:06 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 06:34:34 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 06:34:34 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 06:35:28 UTC] PHP Warning:  include_once(con.php): failed to open stream: No such file or directory in /home/attendancemananr/public_html/api-new.php on line 2
+[29-Jan-2022 06:35:28 UTC] PHP Warning:  include_once(): Failed opening 'con.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/attendancemananr/public_html/api-new.php on line 2
